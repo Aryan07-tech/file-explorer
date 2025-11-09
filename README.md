@@ -1,4 +1,4 @@
-# Linux-file-explorer
+
 # 🧭 Console File Explorer
 
 A beginner-friendly, console-based **File Explorer** written in **C++17** for Linux.  
